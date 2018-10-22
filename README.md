@@ -1,2 +1,2 @@
 # Hello-World
-This contains a python file to print hello world. 
+This contains a python file that prints "Hello World".
